@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Three years of experience in data mining using Python, C++, and C.](Three years of experience in data mining using Python, C++, and C.)
 
-- 📄 Know about my experiences **One year of experience in web development using PHP, JavaScript, and C#. ￼ ￼ ￼**
+- 📄 Know about my experiences **One year of experience in web development using PHP, JavaScript, and C#.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

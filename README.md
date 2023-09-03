@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/dnh4/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dnh4" alt="dnh4" /></a> </p>
 
-- 🔭 I’m currently working on [Personal GPT2 Web interface](https://github.com/dnh4/text-generation-webui)
-
-- 🔭 I’m currently working on **Call Center activity dashboard**
-
-- 🔭 I’m currently working on [Yenback](https://www.yenback.com/)
-
-- 👨‍💻 Professional activities are available through this link [https://github.com/dnh4](https://github.com/dnh4)
-
-- 👨‍💻 Professional activities are available through this link [https://gitlab.com/DNH4](https://gitlab.com/DNH4)
-
 - 📫 How to reach me **dinahasina.s217@gmail.com**
 
 - 📄 Know about my experiences [Three years of experience in data mining using Python, C++, and C.](Three years of experience in data mining using Python, C++, and C.)

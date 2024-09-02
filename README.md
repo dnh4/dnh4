@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnh4&label=Profile%20views&color=0e75b6&style=flat" alt="dnh4" /> </p>
 <h1 align="center">I'm Dinahasina Ralaivao</h1>
-<h3 align="center">An experienced software developer specializing in Angular, React, Django, and C++, with senior-level expertise. Skilled in leading high-quality, easily maintainable software projects following Clean Code coding standards, and possessing five years of industry experience.</h3>
+<h3 align="center"></h3>
 
 ---
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dnh4&" alt="dnh4" /></p>
